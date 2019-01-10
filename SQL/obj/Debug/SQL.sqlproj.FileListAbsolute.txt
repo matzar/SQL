@@ -1,9 +1,0 @@
-C:\Users\Mateusz Zaremba\Documents\temp\SQL\SQL\bin\Debug\SQL.dacpac
-C:\Users\Mateusz Zaremba\Documents\temp\SQL\SQL\obj\Debug\SQL.dll
-C:\Users\Mateusz Zaremba\Documents\temp\SQL\SQL\obj\Debug\SQL.pdb
-C:\Users\Mateusz Zaremba\Documents\temp\SQL\SQL\bin\Debug\SQL.dll
-C:\Users\Mateusz Zaremba\Documents\temp\SQL\SQL\bin\Debug\SQL.pdb
-C:\Users\Mateusz Zaremba\Documents\temp\SQL\SQL\obj\Debug\Model.xml
-C:\Users\Mateusz Zaremba\Documents\temp\SQL\SQL\obj\Debug\refactor.xml
-C:\Users\Mateusz Zaremba\Documents\temp\SQL\SQL\obj\Debug\postdeploy.sql
-C:\Users\Mateusz Zaremba\Documents\temp\SQL\SQL\obj\Debug\predeploy.sql
